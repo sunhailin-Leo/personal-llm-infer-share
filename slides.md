@@ -154,8 +154,13 @@ src: ./pages/02-gpu/p3.md
 ---
 
 ---
-transition: fade-out
+hideInToc: true
 src: ./pages/02-gpu/p4.md
+---
+
+---
+transition: fade-out
+src: ./pages/02-gpu/p5.md
 ---
 
 ---
