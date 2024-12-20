@@ -101,14 +101,14 @@ hideInToc: true
 
 ---
 layout: image-right
-image: assets/img.png
+image: ./assets/img.png
 backgroundSize: 46em
 src: ./pages/01-sre/p0.md
 ---
 
 ---
 layout: image-right
-image: assets/img.png
+image: ./assets/img.png
 backgroundSize: 46em
 hideInToc: true
 src: ./pages/01-sre/p1.md
@@ -116,7 +116,7 @@ src: ./pages/01-sre/p1.md
 
 ---
 layout: image-right
-image: assets/img.png
+image: ./assets/img.png
 hideInToc: true
 backgroundSize: 46em
 src: ./pages/01-sre/p2.md
@@ -124,7 +124,7 @@ src: ./pages/01-sre/p2.md
 
 ---
 layout: image-left
-image: assets/img-1.png
+image: ./assets/img-1.png
 backgroundSize: 32em 50%
 transition: fade-out
 src: ./pages/02-gpu/p0.md
@@ -132,7 +132,7 @@ src: ./pages/02-gpu/p0.md
 
 ---
 layout: image-left
-image: assets/img-2.png
+image: ./assets/img-2.png
 hideInToc: true
 backgroundSize: 27em 100%
 src: ./pages/02-gpu/p1.md
@@ -140,7 +140,7 @@ src: ./pages/02-gpu/p1.md
 
 ---
 layout: image-left
-image: assets/img-3.png
+image: ./assets/img-3.png
 backgroundSize: 28em 60%
 hideInToc: true
 src: ./pages/02-gpu/p2.md
@@ -148,7 +148,7 @@ src: ./pages/02-gpu/p2.md
 
 ---
 layout: image-left
-image: assets/img-4.png
+image: ./assets/img-4.png
 backgroundSize: 30em 95%
 src: ./pages/02-gpu/p3.md
 ---
@@ -172,7 +172,7 @@ src: ./pages/03-vllm/p0.md
 ---
 transition: slide-up
 layout: image-left
-image: assets/img-5.png
+image: ./assets/img-5.png
 backgroundSize: 30em 55%
 hideInToc: true
 src: ./pages/03-vllm/p1.md
